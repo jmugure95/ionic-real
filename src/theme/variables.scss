@@ -83,6 +83,15 @@ $colors: (
 
 // Fonts
 // --------------------------------------------------
-
+$fontawesome-path: "../assets/fontawesome/css";
 @import "roboto";
 @import "noto-sans";
+@import url('../assets/fontawesome/css/fontawesome.min.css');
+@import url('../assets/fontawesome/css/svg-with-js.min.css');
+@import url('../assets/css/bootstrap.min.css');
+@import url('../assets/css/mdb.min.css');
+@import url('../assets/css/style.css');
+@import url('../assets/js/jquery-3.3.1.min.js');
+@import url('../assets/js/popper.min.js');
+@import url('../assets/js/bootstrap.min.js');
+@import url('../assets/js/mdb.min.js');
